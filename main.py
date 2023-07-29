@@ -1,4 +1,4 @@
-from sand import logo
+from art import logo
 
 list_of_bidders = []
 list_of_bids = []
